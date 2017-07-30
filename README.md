@@ -1,2 +1,2 @@
-# type-game
-type game
+# typeGame
+C# type game
